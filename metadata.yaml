@@ -1,10 +1,13 @@
 _repo: Sammtliche-Werke-8-Briefwechsel-II-Hans-Kuchelgarten-Briefwechsel-II-Die-Beichte-des-Dichters__56475
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Steindorf, Ullrich
     gutenberg_agent_id: '48866'
     url: http://www.gutenberg.org/2009/agents/48866
+covers:
+- cover_type: archival
+  image_path: 56475-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '45416'
     url: http://www.gutenberg.org/2009/agents/45416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56475#Sammtliche-Werke-8-Briefwechsel-II-Hans-Kuchelgarten-Briefwechsel-II-Die-Beichte-des-Dichters_
 gutenberg_issued: '2018-01-31'
 gutenberg_type: Text
 identifiers:
