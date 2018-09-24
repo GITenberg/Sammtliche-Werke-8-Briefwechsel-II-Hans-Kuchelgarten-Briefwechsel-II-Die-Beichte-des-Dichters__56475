@@ -1,0 +1,43 @@
+_repo: Sammtliche-Werke-8-Briefwechsel-II-Hans-Kuchelgarten-Briefwechsel-II-Die-Beichte-des-Dichters__56475
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Steindorf, Ullrich
+    gutenberg_agent_id: '48866'
+    url: http://www.gutenberg.org/2009/agents/48866
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  editor:
+    agent_name: Buek, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '45416'
+    url: http://www.gutenberg.org/2009/agents/45416
+description: ''
+gutenberg_issued: '2018-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56475'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sämmtliche Werke 8: Briefwechsel II, Hans Küchelgarten
+
+  Briefwechsel II / Die Beichte des Dichters / Betrachtungen
+
+  über die Heilige Liturgie / Jugendschriften / Fragmente
+
+  / Hans Küchelgarten'
+url: http://www.gutenberg.org/ebooks/56475
